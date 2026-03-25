@@ -94,7 +94,7 @@ A Python tool to analyze corporate compliance documents using NLP and embedded d
 <td width="50%" valign="top">
 
 ### 📊 Data Visualization Dashboard
-**Business Intelligence Project**
+**Customer Churn Analysis Project**
 
 Executive-level dashboards translating raw data into strategic insights.
 
