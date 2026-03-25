@@ -124,18 +124,6 @@ Exploring IoT systems architecture and network performance analysis.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Vanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanyaaa24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BA4CF&icon_color=5BA4CF&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanyasingla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BA4CF&text_color=c9d1d9)
-
-</div>
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
