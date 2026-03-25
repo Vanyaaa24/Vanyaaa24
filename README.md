@@ -19,8 +19,7 @@ vanya = {
     "education": "BSc Computer Science (minor: Business) @ UVic",
     "interests": ["Data Analytics", "Product Development", "Healthcare Tech"],
     "experience": ["MRI Simulator (Fraser Health × UVic)", "Hackathon Runner-Up"],
-    "looking_for": "Summer Co-op 2025",
-    "fun_fact": "I turn messy datasets into clear decisions 📊"
+    "fun_fact": "I turn messy datasets into clear decisions "
 }
 ```
 
@@ -61,6 +60,22 @@ vanya = {
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+
+### ⚡ FortisBC Biogas Plant
+**Sub-lead, Software Team — WEST × FortisBC**
+
+Led software analysis for a real-world biogas plant system in collaboration with FortisBC and multidisciplinary engineering teams.
+
+- 🐍 Built Python-based models to evaluate operational performance
+- 🗂️ Documented software–control integration workflows on GitHub
+- 🔧 Improved operational stability through buffer storage strategies
+- 🤝 Escalated & resolved complex technical issues across teams
+
+`Python` `Systems Analysis` `Industry Project` `WEST`
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏥 MRI Simulator
